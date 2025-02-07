@@ -1,0 +1,3 @@
+# React Native Unhandled JS Exception: Cannot read properties of undefined (reading 'map')
+
+This repository demonstrates a common React Native error: "Cannot read properties of undefined (reading 'map')", which arises when trying to access a state variable before it's initialized. The example showcases this issue within `componentDidMount` and provides a solution using the optional chaining operator and conditional rendering.
